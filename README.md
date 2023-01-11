@@ -1,7 +1,7 @@
 ![MasterHead](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)
 <h1 align="center">Hi 👋, I'm Aytac Aliyeva</h1>
 <h3 align="center">A curious backend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg">
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/227/854/original/female-developer-vector.jpg">
 
 - 🌱 I’m currently learning **Golang**
 
