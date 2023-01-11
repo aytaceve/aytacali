@@ -1,9 +1,9 @@
-[![MasterHead](https://64.media.tumblr.com/68eba6428b1e95bd4e349a16c717c880/tumblr_p0168gtRdI1runoqyo3_540.gif)]
+![MasterHead](https://64.media.tumblr.com/68eba6428b1e95bd4e349a16c717c880/tumblr_p0168gtRdI1runoqyo3_540.gif)
 <h1 align="center">Hi 👋, I'm Aytac Aliyeva</h1>
 <h3 align="center">A curious backend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aytacali&label=Profile%20views&color=0e75b6&style=flat" alt="aytacali" /> </p>
+<p align="left"> <img src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg"/> </p>
 
 - 🌱 I’m currently learning **Golang**
 
