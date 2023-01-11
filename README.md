@@ -2,10 +2,6 @@
 <h3 align="center">A curious backend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/0e/0e01e56732d4fae6e63f9fc4beeaded9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aytacali&label=Profile%20views&color=0e75b6&style=flat" alt="aytacali" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></p>
-
 - 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Python, Django, Flask, FastApi**
