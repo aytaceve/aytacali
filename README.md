@@ -1,7 +1,8 @@
 ![MasterHead](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)
 <h1 align="center">Hi 👋, I'm Aytac</h1>
 <h3 align="center">A curious backend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300">
+https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 - 🌱 I’m currently learning **Golang**
 
