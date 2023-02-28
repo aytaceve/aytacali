@@ -3,7 +3,7 @@
 <h3 align="center">Backend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300">
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP and Vue.js**
 
 - 💬 Ask me about **Python, Django, Flask, FastApi**
 
