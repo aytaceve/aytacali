@@ -1,5 +1,5 @@
 ![MasterHead](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)
-<h1 align="center">Hi 👋, I'm Aytac</h1>
+<h1 align="center">Hi 👋, I'm Aytaj</h1>
 <h3 align="center">Backend developer</h3>
 
 
