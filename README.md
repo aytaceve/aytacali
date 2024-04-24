@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aytacali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aytac-ali" height="30" width="40" /></a>
- <a background-color: #ffffff; href="https://discord.com/channels/@me/964978223618359386" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/256/FontAwesome-Brands-Discord-icon.png" alt="aytac-ali" style="background-color: #ffffff;" height="30" width="40" /></a>
+ <a href="https://discord.com/channels/@me/964978223618359386" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/256/FontAwesome-Brands-Discord-icon.png" alt="aytac-ali" style="background-color: #ffffff;" height="30" width="40" /></a>
 
 </p>
 
