@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Django, Flask, FastApi**
 
-- 📫 How to reach me **aytacali@proton.me**
+- 📫 How to reach me **aytacaliyeva133@gmail.com**
 
 #
 
